@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <configuracion>
-    <ip>127.0.0.1</ip>
-    <nombre>f1news</nombre>
-    <usuario>root</usuario>
-    <clave></clave>
+    <ip>eu-cdbr-west-03.cleardb.net</ip>
+    <nombre>heroku_8a34a067c8d1005</nombre>
+    <usuario>bf711ef804d762</usuario>
+    <clave>6f2f459b</clave>
 </configuracion>

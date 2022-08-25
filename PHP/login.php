@@ -7,6 +7,7 @@ function comprobar_usuario($usuario, $clave){
     if ($resul->rowCount() === 1) {
         return $resul->fetch();
     } else {
+        print_r("ERROR");
         return FALSE;
     }
 }
